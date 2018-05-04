@@ -1,0 +1,4 @@
+id_pregunta, materia, curso, pregunta
+0, CAL, PJA, ¿Cuanto es 1+1?
+1, CAL, JAR, ¿Cuanto es 3-2?
+2, ART, TRA, ¿Rojo mas amarillo?

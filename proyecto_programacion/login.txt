@@ -1,0 +1,6 @@
+email, password
+anita@gmail.com, 1234
+juancamiloerazo82@gmail.com, camiloerazo1
+juanito@gmail.com, 123456
+alfonso@gmail.com, 123456
+juancamiloerazo@gmail.com, 123123
