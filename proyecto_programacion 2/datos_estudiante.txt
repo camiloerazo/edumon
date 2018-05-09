@@ -1,0 +1,7 @@
+user_id,mail,password,grado,rol
+1004217473,anita@gmail.com,1234,3,user
+122112,juancamiloerazo82@gmail.com,camiloerazo1,11,admin
+1233332,juanito@gmail.com,123456,5,user
+100022,alfonso@gmail.com,123456, 8,user
+123,juancamiloerazo@gmail.com,123123,2,user
+10002,duverlomejorsito@lomejorsito.es,duver,11,user

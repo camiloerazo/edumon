@@ -1,0 +1,3 @@
+id_pregunta,materia,curso,pregunta
+0,CAL,TRA,¿Cuanto es 2+2?
+1,CAL,TRA,¿Cuanto es XVIII en numeros arabicos?

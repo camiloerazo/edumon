@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+
+{% block titulo %} 
+Login Edumon
+{% endblock %}
+
+{% block head %}
+<style type="text/css">
+	body{
+			background-image: url('../static/fondo.jpg');
+		}
+		html{
+			margin:0px;
+			padding: 0px
+		}
+		
+		.boxlogin{
+			
+			margin: 43px auto;
+			width: 320px
+		}
+
+		input[type="submit"]{
+			margin-top: 13px;
+			align-content: center;
+		}
+
+		label{
+			margin: 5px;
+		}
+		h1{
+			color: white;
+		}
+</style> 
+
+
+{% endblock %}
+
+{% block body %} 
+<div class="jumbotron boxlogin">
+	{% if registro==False %}
+
+	<p align="center">Por favor vuelva a ingresar los datos	&#9748; </p>
+	
+	{% endif%}
+			<form method="POST" action="{{ url_for('game') }}">
+				<label>Nombre de usuario:</label>
+				<input type="text" name="usuario" class="form-control" placeholder="&#128273; Username" pattern="^[^@]+@[^@]+\.[a-zA-Z]{2,}$" value="{% if registro== False %}{{usuario}}{% endif %}">
+				<label>Contraseña:</label>
+				<input type="password" name="contrasena" class="form-control" placeholder="&#x1F512; Password">
+				<input type="submit" value="Ingresa" class="btn btn-success">
+			</form>
+		</div>
+{% endblock %}
+
