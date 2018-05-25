@@ -1,0 +1,1676 @@
+{
+  "0": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "cuanto es 1+1",
+        "respuestas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 1,
+        "pregunta": "cuanto es 1+2",
+        "respuestas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 2,
+        "pregunta": "cuanto es 3-2",
+        "respuestas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 3,
+        "pregunta": "cuanto es 4-2",
+        "respuestas": [
+          7,
+          10,
+          20,
+          2
+        ],
+        "correcta": 3
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Amarillo y azul forman?",
+        "respuestas": [
+          "verde",
+          "rojo",
+          "azul claro",
+          "negro"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 5,
+        "pregunta": "Rojo y amarillo forman?",
+        "respuestas": [
+          "verde",
+          "rojo",
+          "azul claro",
+          "naranja"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 6,
+        "pregunta": "Primer Color de la bandera de Colombia?",
+        "respuestas": [
+          "azul",
+          "rojo",
+          "amarillo",
+          "negro"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 7,
+        "pregunta": "Rojo mas blanco?",
+        "respuestas": [
+          "rojo claro",
+          "rojo fuerte",
+          "azul claro",
+          "negro"
+        ],
+        "correcta": 0
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice amarillo en ingles",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice rojo en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 10,
+        "pregunta": "como se dice azul en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 11,
+        "pregunta": "como se dice verde en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 3
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Como se llama el hermano de tu padre",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 13,
+        "pregunta": "Como se llama el hijo de tu tio?",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 14,
+        "pregunta": "Como se llama el padre de tu padre?",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 15,
+        "pregunta": "Que eres para tu tio?",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 1
+      }
+    ]
+  },
+  "1": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "cuanto es 4+20",
+        "respuestas": [
+          12,
+          24,
+          34,
+          4
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 1,
+        "pregunta": "cuanto es 10+10",
+        "respuestas": [
+          1010,
+          8,
+          20,
+          7
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 2,
+        "pregunta": "cuanto es 20-15",
+        "respuestas": [
+          5,
+          7,
+          8,
+          3
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 3,
+        "pregunta": "cuanto es 10-10",
+        "respuestas": [
+          6,
+          1,
+          -1,
+          0
+        ],
+        "correcta": 3
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Cual es el color mas oscuro?",
+        "respuestas": [
+          "verde",
+          "rojo",
+          "azul claro",
+          "negro"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 5,
+        "pregunta": "Que color sale al mezclar blanco y negro?",
+        "respuestas": [
+          "verde",
+          "rojo",
+          "azul claro",
+          "gris"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 6,
+        "pregunta": "Segundo Color de la bandera de Colombia?",
+        "respuestas": [
+          "azul",
+          "rojo",
+          "amarillo",
+          "negro"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 7,
+        "pregunta": "Amarillo mas violeta?",
+        "respuestas": [
+          "rojo claro",
+          "marron",
+          "azul claro",
+          "negro"
+        ],
+        "correcta": 1
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice negro en ingles",
+        "respuestas": [
+          "white",
+          "yellow",
+          "black",
+          "green"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice blanco en ingles?",
+        "respuestas": [
+          "red",
+          "white",
+          "blue",
+          "green"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 10,
+        "pregunta": "como se dice azul claro en ingles?",
+        "respuestas": [
+          "red",
+          "lightblue",
+          "blue white",
+          "green"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 11,
+        "pregunta": "como se dice Violeta en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "purple",
+          "green"
+        ],
+        "correcta": 2
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la primera Vocal",
+        "respuestas": [
+          "B",
+          "A",
+          "E",
+          "O"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 13,
+        "pregunta": "Quien se comio a la abuela de caperucita?",
+        "respuestas": [
+          "el tigre",
+          "el cazador",
+          "abuelo",
+          "el lobo"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la tercera vocal?",
+        "respuestas": [
+          "I",
+          "U",
+          "E",
+          "A"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estos objetos es un instrumento musical?",
+        "respuestas": [
+          "Balon",
+          "Piano",
+          "Vaso",
+          "Computador"
+        ],
+        "correcta": 1
+      }
+    ]
+  },
+  "2": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "cuanto es 1+1",
+        "respuestas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 1,
+        "pregunta": "cuanto es 1+2",
+        "respuestas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 2,
+        "pregunta": "cuanto es 3-2",
+        "respuestas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 3,
+        "pregunta": "cuanto es 4-2",
+        "respuestas": [
+          7,
+          10,
+          20,
+          2
+        ],
+        "correcta": 3
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Amarillo y azul forman?",
+        "respuestas": [
+          "verde",
+          "rojo",
+          "azul claro",
+          "negro"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 5,
+        "pregunta": "Rojo y amarillo forman?",
+        "respuestas": [
+          "verde",
+          "rojo",
+          "azul claro",
+          "naranja"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 6,
+        "pregunta": "Primer Color de la bandera de Colombia?",
+        "respuestas": [
+          "azul",
+          "rojo",
+          "amarillo",
+          "negro"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 7,
+        "pregunta": "Rojo mas blanco?",
+        "respuestas": [
+          "rojo claro",
+          "rojo fuerte",
+          "azul claro",
+          "negro"
+        ],
+        "correcta": 0
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice amarillo en ingles",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice rojo en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 10,
+        "pregunta": "como se dice azul en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 11,
+        "pregunta": "como se dice verde en ingles?",
+        "respuestas": [
+          "red",
+          "yellow",
+          "blue",
+          "green"
+        ],
+        "correcta": 3
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Como se llama el hermano de tu padre",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 13,
+        "pregunta": "Como se llama el hijo de tu tio?",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 14,
+        "pregunta": "Como se llama el padre de tu padre?",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 15,
+        "pregunta": "Que eres para tu tio?",
+        "respuestas": [
+          "tio",
+          "sobrino",
+          "abuelo",
+          "primo"
+        ],
+        "correcta": 1
+      }
+    ]
+  },
+  "3": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "Cuanto es 10 x 10",
+        "respuestas": [
+          200,
+          1010,
+          1000,
+          100
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 1,
+        "pregunta": "Cuanto es 4 x 5 + 3",
+        "respuestas": [
+          23,
+          22,
+          21,
+          24
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 2,
+        "pregunta": "5 x 7-6",
+        "respuestas": [
+          28,
+          29,
+          30,
+          27
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 3,
+        "pregunta": "cuanto es 490-45",
+        "respuestas": [
+          445,
+          245,
+          465,
+          470
+        ],
+        "correcta": 0
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Para que sirve un instrumento musical?",
+        "respuestas": [
+          "Para soplar",
+          "Para hacer matematicas",
+          "Para tocar musica",
+          "Para comer"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 5,
+        "pregunta": "Cual de estos instrumentos es de la familia de los vientos?",
+        "respuestas": [
+          "Flauta dulce",
+          "Bateria",
+          "Guitarra",
+          "Piano"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 6,
+        "pregunta": "Como se llama este departamento?",
+        "respuestas": [
+          "Cauca",
+          "Valle",
+          "Valle del Cauca",
+          "Cali"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 7,
+        "pregunta": "Cual es el color que predomina en el planeta tierra?",
+        "respuestas": [
+          "rojo claro",
+          "marron",
+          "azul",
+          "negro"
+        ],
+        "correcta": 2
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice madre en ingles",
+        "respuestas": [
+          "mother",
+          "mather",
+          "mama",
+          "father"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice padre en ingles ?",
+        "respuestas": [
+          "fathering",
+          "padreishon",
+          "father",
+          "grandfather"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 10,
+        "pregunta": "Como se dice abuelo en ingles?",
+        "respuestas": [
+          "granduncle",
+          "grandold",
+          "grandmother",
+          "grandfather"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 11,
+        "pregunta": "Como se dice primo en ingles?",
+        "respuestas": [
+          "car",
+          "pring",
+          "counis",
+          "cousin"
+        ],
+        "correcta": 3
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la cuarta letra del abecedario",
+        "respuestas": [
+          "A",
+          "X",
+          "D",
+          "C"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 13,
+        "pregunta": "Cual de estas palabras en un verbo?",
+        "respuestas": [
+          "e perro",
+          "anfibio",
+          "escribir",
+          "ella"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la ultima vocal?",
+        "respuestas": [
+          "I",
+          "U",
+          "E",
+          "A"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estas palabras es un sustantivo?",
+        "respuestas": [
+          "Karen",
+          "Comimos",
+          "Vamos",
+          "Compartir"
+        ],
+        "correcta": 0
+      }
+    ]
+  },
+  "4": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "229 + _____ = 900",
+        "respuestas": [
+          500,
+          620,
+          671,
+          543
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 1,
+        "pregunta": "32 + _____ = 100 ",
+        "respuestas": [
+          68,
+          67,
+          65,
+          55
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 2,
+        "pregunta": "135+ ____ = 800",
+        "respuestas": [
+          123,
+          654,
+          665,
+          122
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 3,
+        "pregunta": "445 + ____ = 900",
+        "respuestas": [
+          455,
+          245,
+          465,
+          470
+        ],
+        "correcta": 0
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Cual de estos instrumentos es percucion?",
+        "respuestas": [
+          "Bateria",
+          "Flauta",
+          "Guitarra",
+          "Saxofon"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 5,
+        "pregunta": "Cuantas cuerdas tiene una guitarra?",
+        "respuestas": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 6,
+        "pregunta": "Cual es la letra que representa a LA?",
+        "respuestas": [
+          "B",
+          "A",
+          "L",
+          "X"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 7,
+        "pregunta": "Que contienen los desiertos?",
+        "respuestas": [
+          "Tierra",
+          "Arena",
+          "Agua",
+          "Azufre"
+        ],
+        "correcta": 1
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice toro en ingles",
+        "respuestas": [
+          "mother",
+          "pen",
+          "mama",
+          "bull"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice tio en ingles ?",
+        "respuestas": [
+          "fathering",
+          "uncle",
+          "father",
+          "grandfather"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 10,
+        "pregunta": "Como se dice sobrino en ingles?",
+        "respuestas": [
+          "granduncle",
+          "grandold",
+          "grandmother",
+          "nephew"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 11,
+        "pregunta": "Como se dice comida en ingles?",
+        "respuestas": [
+          "food",
+          "pring",
+          "counis",
+          "cousin"
+        ],
+        "correcta": 0
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la quinta letra del abecedario",
+        "respuestas": [
+          "A",
+          "X",
+          "E",
+          "C"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 13,
+        "pregunta": "Cual de estas palabras en un verbo?",
+        "respuestas": [
+          "el perro",
+          "anfibio",
+          "vivir",
+          "ella"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la penultima vocal?",
+        "respuestas": [
+          "I",
+          "O",
+          "E",
+          "A"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estas palabras es un sustantivo?",
+        "respuestas": [
+          "Alfredo",
+          "Comimos",
+          "Vamos",
+          "Compartir"
+        ],
+        "correcta": 0
+      }
+    ]
+  },
+  "5": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "Cuanto es 15 / 3",
+        "respuestas": [
+          6,
+          3,
+          5,
+          2
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 1,
+        "pregunta": "Cuanto es 4 x 5.2",
+        "respuestas": [
+          23.1,
+          22.2,
+          21.1,
+          20.8
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 2,
+        "pregunta": "21 / 7",
+        "respuestas": [
+          4,
+          3,
+          2,
+          5
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 3,
+        "pregunta": "cuanto son 3 cuartos de 12",
+        "respuestas": [
+          9,
+          10,
+          5,
+          4
+        ],
+        "correcta": 0
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Quien es el autor del himno nacional?",
+        "respuestas": [
+          "Rafael Pardo",
+          "Alvaro Uribe",
+          "Micael Laso",
+          "Rafael Nu\u00c3\u00b1ez"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 5,
+        "pregunta": "Cual de estos instrumentos es de la familia de las cuerdas?",
+        "respuestas": [
+          "Flauta dulce",
+          "Bateria",
+          "Guitarra",
+          "Piano"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 6,
+        "pregunta": "La unidad morfologica y funcional de los seres vivos?",
+        "respuestas": [
+          "ameba",
+          "celula",
+          "materia gris",
+          "Cali"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 7,
+        "pregunta": "Cual fue el pais que colinizo a Colombia?",
+        "respuestas": [
+          "Espa\u00c3\u00b1a",
+          "Esparta",
+          "portugal",
+          "nueva zelanda"
+        ],
+        "correcta": 0
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice me gusta en ingles",
+        "respuestas": [
+          "Liken it",
+          "I likte that",
+          "I like it",
+          "plase like"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice ellos eran en ingles ?",
+        "respuestas": [
+          "they were",
+          "they was",
+          "they whem",
+          "grandfather"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 10,
+        "pregunta": "Como se dice descarga en ingles?",
+        "respuestas": [
+          "load",
+          "download",
+          "prime",
+          "grandfather"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 11,
+        "pregunta": "Como se dice muerte en ingles?",
+        "respuestas": [
+          "dead",
+          "deadm",
+          "muertix",
+          "death"
+        ],
+        "correcta": 3
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la ultima letra del abecedario",
+        "respuestas": [
+          "A",
+          "X",
+          "D",
+          "Z"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 13,
+        "pregunta": "Que tipo de texto tiene inicio, nudo y desenlace?",
+        "respuestas": [
+          "ensayo",
+          "articulo",
+          "narracion",
+          "noticia"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la ultima vocal?",
+        "respuestas": [
+          "I",
+          "U",
+          "E",
+          "A"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estas palabras es un sustantivo?",
+        "respuestas": [
+          "Rita",
+          "Comimos",
+          "Vamos",
+          "Compartir"
+        ],
+        "correcta": 0
+      }
+    ]
+  },
+  "6": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "5x = 15 Cual es el valor de x",
+        "respuestas": [
+          5,
+          12,
+          4,
+          3
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 1,
+        "pregunta": "Cuanto es 20 / x = 4",
+        "respuestas": [
+          3,
+          2,
+          5,
+          4
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 2,
+        "pregunta": "Cuanto es la raiz cuadrada de 36",
+        "respuestas": [
+          4,
+          5,
+          6,
+          12
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 3,
+        "pregunta": "Cuanto es XX en numeros romanos",
+        "respuestas": [
+          100,
+          200,
+          420,
+          20
+        ],
+        "correcta": 3
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Cual es la capital de colombia?",
+        "respuestas": [
+          "Bogota",
+          "Medellin",
+          "Leticia",
+          "Santander"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 5,
+        "pregunta": "Cual de estos es un conector gramatical?",
+        "respuestas": [
+          "No",
+          "Tal vez",
+          "Ella",
+          "Cabe senalar"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 6,
+        "pregunta": "Cuantas silabas tiene la palabra murcielago?",
+        "respuestas": [
+          "4",
+          "3",
+          "2",
+          "5"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 7,
+        "pregunta": "Que es una oracion?",
+        "respuestas": [
+          "rezar",
+          "Conjunto de palabras sin sentido",
+          "Conjunto de palabras bien escritas",
+          "Conjunto de palabras con sentido"
+        ],
+        "correcta": 3
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Donde puedo ver una serpiente",
+        "respuestas": [
+          "Hotel",
+          "Jungle",
+          "Desert",
+          "City"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 9,
+        "pregunta": "What's your name ?",
+        "respuestas": [
+          "Nope",
+          "Prosible",
+          "Martha",
+          "Yes"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 10,
+        "pregunta": "How old are you?",
+        "respuestas": [
+          "12",
+          "Fine",
+          "Dont think so",
+          "Really?"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 11,
+        "pregunta": "Are you cold?",
+        "respuestas": [
+          "Yes I Are",
+          "Yes I Am",
+          "Yes they were",
+          "Yes I were"
+        ],
+        "correcta": 0
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la estructura de una oracion",
+        "respuestas": [
+          "Predicado verbo sujeto",
+          "Sujeto predicado verbo",
+          "Verbo sujeto predicado",
+          "Sujeto verbo predicado"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 13,
+        "pregunta": "Cual de estas palabras en un adjetivo?",
+        "respuestas": [
+          "el perro",
+          "anfibio",
+          "escribir",
+          "Linda"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la ultima vocal?",
+        "respuestas": [
+          "I",
+          "U",
+          "E",
+          "A"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estas palabras es un sustantivo?",
+        "respuestas": [
+          "Karen",
+          "Comimos",
+          "Vamos",
+          "Compartir"
+        ],
+        "correcta": 0
+      }
+    ]
+  },
+  "7": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "Cuanto grados tiene un angulo recto?",
+        "respuestas": [
+          134,
+          360,
+          120,
+          180
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 1,
+        "pregunta": "Un numero negativo multiplicado por otro numero positivo?",
+        "respuestas": [
+          "normal",
+          "positivo",
+          "real",
+          "negativo"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 2,
+        "pregunta": "Un numero negativo multiplicado por otro numero negativo",
+        "respuestas": [
+          "normal",
+          "positivo",
+          "real",
+          "negativo"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 3,
+        "pregunta": "Como se calcula el promedio",
+        "respuestas": [
+          "Sumando todos los datos",
+          "sacando la mitad de todos los datos",
+          "Sumando todos los datos y dividiendo el el numero de datos",
+          "restando todo y dividiendo entre 100%"
+        ],
+        "correcta": 2
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Quien fue Simon Bolivar?",
+        "respuestas": [
+          "Un vikingo",
+          "Un conquistador",
+          "Un astronauta",
+          "Un libertador"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 5,
+        "pregunta": "Que periodo vino antes que el renacimiento?",
+        "respuestas": [
+          "Edad moderna",
+          "Edad media",
+          "Griegos",
+          "Peste negra"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 6,
+        "pregunta": "Cual era la base fundamental del renacimiento?",
+        "respuestas": [
+          "El humanismo y antropocentrismo",
+          "Los planetas y dioses",
+          "La psicologia",
+          "Los ovnis"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 7,
+        "pregunta": "Cual es el peridodo que sigue despues del Renacimiento?",
+        "respuestas": [
+          "Edad moderna",
+          "Edad media",
+          "Griegos",
+          "Peste negra"
+        ],
+        "correcta": 0
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "What time is it?",
+        "respuestas": [
+          "No",
+          "Excuse me",
+          "5 o' clock",
+          "father"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 9,
+        "pregunta": "Can I help you ?",
+        "respuestas": [
+          "Offcourse Thanks",
+          "Don't think so buddy",
+          "Whach out with that buddy",
+          "Come on"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 10,
+        "pregunta": "Do you love me ?",
+        "respuestas": [
+          "SIck",
+          "Let me think",
+          "Offcourse I do",
+          "NEl"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 11,
+        "pregunta": "Como se dice frasco en ingles?",
+        "respuestas": [
+          "bottle",
+          "pring",
+          "flask",
+          "cousin"
+        ],
+        "correcta": 2
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la cuarta letra del abecedario",
+        "respuestas": [
+          "A",
+          "X",
+          "D",
+          "C"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 13,
+        "pregunta": "Cual de estas palabras en un verbo?",
+        "respuestas": [
+          "e perro",
+          "anfibio",
+          "escribir",
+          "ella"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la ultima vocal?",
+        "respuestas": [
+          "I",
+          "U",
+          "E",
+          "A"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estas palabras es un sustantivo?",
+        "respuestas": [
+          "Karen",
+          "Comimos",
+          "Vamos",
+          "Compartir"
+        ],
+        "correcta": 0
+      }
+    ]
+  },
+  "8": {
+    "matematicas": [
+      {
+        "id": 0,
+        "pregunta": "Cuanto es 10 x 10",
+        "respuestas": [
+          200,
+          1010,
+          1000,
+          100
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 1,
+        "pregunta": "Cuanto es 4 x 5 + 3",
+        "respuestas": [
+          23,
+          22,
+          21,
+          24
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 2,
+        "pregunta": "5 x 7-6",
+        "respuestas": [
+          28,
+          29,
+          30,
+          27
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 3,
+        "pregunta": "cuanto es 490-45",
+        "respuestas": [
+          445,
+          245,
+          465,
+          470
+        ],
+        "correcta": 0
+      }
+    ],
+    "artes": [
+      {
+        "id": 4,
+        "pregunta": "Para que sirve un instrumento musical?",
+        "respuestas": [
+          "Para soplar",
+          "Para hacer matematicas",
+          "Para tocar musica",
+          "Para comer"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 5,
+        "pregunta": "Cual de estos instrumentos es de la familia de los vientos?",
+        "respuestas": [
+          "Flauta dulce",
+          "Bateria",
+          "Guitarra",
+          "Piano"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 6,
+        "pregunta": "Como se llama este departamento?",
+        "respuestas": [
+          "Cauca",
+          "Valle",
+          "Valle del Cauca",
+          "Cali"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 7,
+        "pregunta": "Cual es el color que predomina en el planeta tierra?",
+        "respuestas": [
+          "rojo claro",
+          "marron",
+          "azul",
+          "negro"
+        ],
+        "correcta": 2
+      }
+    ],
+    "ingles": [
+      {
+        "id": 8,
+        "pregunta": "Como se dice madre en ingles",
+        "respuestas": [
+          "mother",
+          "mather",
+          "mama",
+          "father"
+        ],
+        "correcta": 0
+      },
+      {
+        "id": 9,
+        "pregunta": "Como se dice padre en ingles ?",
+        "respuestas": [
+          "fathering",
+          "padreishon",
+          "father",
+          "grandfather"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 10,
+        "pregunta": "Como se dice abuelo en ingles?",
+        "respuestas": [
+          "granduncle",
+          "grandold",
+          "grandmother",
+          "grandfather"
+        ],
+        "correcta": 3
+      },
+      {
+        "id": 11,
+        "pregunta": "Como se dice primo en ingles?",
+        "respuestas": [
+          "car",
+          "pring",
+          "counis",
+          "cousin"
+        ],
+        "correcta": 3
+      }
+    ],
+    "castellano": [
+      {
+        "id": 12,
+        "pregunta": "Cual es la cuarta letra del abecedario",
+        "respuestas": [
+          "A",
+          "X",
+          "D",
+          "C"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 13,
+        "pregunta": "Cual de estas palabras en un verbo?",
+        "respuestas": [
+          "e perro",
+          "anfibio",
+          "escribir",
+          "ella"
+        ],
+        "correcta": 2
+      },
+      {
+        "id": 14,
+        "pregunta": "Cual es la ultima vocal?",
+        "respuestas": [
+          "I",
+          "U",
+          "E",
+          "A"
+        ],
+        "correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "Cual de estas palabras es un sustantivo?",
+        "respuestas": [
+          "Karen",
+          "Comimos",
+          "Vamos",
+          "Compartir"
+        ],
+        "correcta": 0
+      }
+    ]
+  }
+}
