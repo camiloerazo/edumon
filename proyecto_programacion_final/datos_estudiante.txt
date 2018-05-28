@@ -1,0 +1,15 @@
+user_id,mail,password,grado,rol            
+1004217473,anita@gmail.com,1234,9,user            
+122112,juancamiloerazo82@gmail.com,camiloerazo1,11,admin            
+1233332,juanito@gmail.com,123456,6,user            
+100022,alfonso@gmail.com,123456,4,user            
+123,juancamiloerazo@gmail.com,123123,2,user            
+10002,duverlomejorsito@lomejorsito.es,duver,11,user            
+99900,afedo@calmate.com,123123,1,user            
+121731113,jhonselo2000@hotmail.com,Sebas1031,0,user           
+1144,florez@gmail.com,1234,0,user      
+2404,juanjosebeDEcourtosorio@gmail.com,JBpshu13P,0,user   
+1231231,insuastyjualio@gmail.com,1234,0,user  
+123123,juancamiloerazo102@gmail.com,1234123,0,user  
+222,1@gmail.com,123123,0,user  
+12312,equipoedumon@gmail.com,12345,0,user 
