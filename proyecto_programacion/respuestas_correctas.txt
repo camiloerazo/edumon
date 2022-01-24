@@ -1,1 +1,0 @@
-id_respuesta, id_pregunta
