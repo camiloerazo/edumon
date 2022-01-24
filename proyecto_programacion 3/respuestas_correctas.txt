@@ -1,3 +1,0 @@
-id_respuesta,id_pregunta
-3,0
-7,1
